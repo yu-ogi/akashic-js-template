@@ -1,0 +1,21 @@
+{
+  "name": "akashic-javascript-template",
+  "private": true,
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "akashic-sandbox .",
+    "lint": "eslint . --fix",
+    "format": "prettier . --write",
+    "test": "npm run lint"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "",
+  "devDependencies": {
+    "@akashic/akashic-engine": "^3.7.1",
+    "@akashic/akashic-sandbox": "^0.19.3",
+    "eslint": "^8.27.0",
+    "prettier": "^2.7.1"
+  }
+}
