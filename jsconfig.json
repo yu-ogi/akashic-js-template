@@ -1,5 +1,6 @@
 {
   "compilerOptions": {
+    "target": "ES2022",
     "allowUmdGlobalAccess": false
   },
   "include": ["script/**/*.js"],
