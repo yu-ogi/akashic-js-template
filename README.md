@@ -1,6 +1,6 @@
 # Akashic JavaScript Template
 
-## how to use
+## usage
 
 ### first time
 
@@ -9,7 +9,7 @@ npm i @akashic-cli -g
 akashic config set init.github.protocol ssh
 ```
 
-### clone
+### initialization
 
 ```ssh
 akashic init -t github:yu-ogi/akashic-js-template
