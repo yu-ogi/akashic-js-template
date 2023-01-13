@@ -1,8 +1,9 @@
 module.exports = () => {
+  const game = g.game;
   const scene = new g.Scene({
-    game: g.game,
+    game,
     assetPaths: [],
   });
 
-  g.game.pushScene(scene);
+  game.pushScene(scene);
 };
