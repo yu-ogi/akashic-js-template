@@ -12,5 +12,7 @@ akashic config set init.github.protocol ssh
 ### initialization
 
 ```ssh
+mkdir sample-game
+cd sample-game
 akashic init -t github:yu-ogi/akashic-js-template
 ```
