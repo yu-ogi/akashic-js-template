@@ -1,6 +1,7 @@
 module.exports = {
   root: true,
   env: {
+    es6: true,
     commonjs: true,
   },
   parserOptions: {
