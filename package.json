@@ -13,9 +13,9 @@
   "author": "",
   "license": "",
   "devDependencies": {
-    "@akashic/akashic-engine": "^3.9.1",
-    "@akashic/akashic-sandbox": "^0.21.3",
-    "eslint": "^8.31.0",
-    "prettier": "^2.8.2"
+    "@akashic/akashic-engine": "^3.10.0",
+    "@akashic/akashic-sandbox": "^0.22.4",
+    "eslint": "^8.34.0",
+    "prettier": "^2.8.4"
   }
 }
