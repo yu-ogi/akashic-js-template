@@ -4,14 +4,14 @@
 
 ### first time
 
-```ssh
+```sh
 npm i @akashic-cli -g
 akashic config set init.github.protocol ssh
 ```
 
 ### initialization
 
-```ssh
+```sh
 mkdir sample-game
 cd sample-game
 akashic init -t github:yu-ogi/akashic-js-template
