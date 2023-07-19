@@ -1,6 +1,4 @@
 {
   "formatVersion": "0",
-  "exclude": [
-    "package-lock.json"
-  ]
+  "exclude": ["package-lock.json"]
 }
