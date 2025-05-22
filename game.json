@@ -4,7 +4,7 @@
   "fps": 30,
   "main": "./script/main.js",
   "assets": {
-    "main": {
+    "script/main": {
       "type": "script",
       "path": "script/main.js",
       "global": true
