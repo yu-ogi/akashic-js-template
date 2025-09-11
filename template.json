@@ -3,6 +3,7 @@
   "exclude": ["package-lock.json"],
   "extensions": [
     { "module": "@akashic-extension/akashic-timeline", "version": "^3" },
-    { "module": "@akashic-extension/akashic-label", "version": "3.0.0" }
+    { "module": "@akashic-extension/akashic-label", "version": "3.0.0" },
+    { "module": "@akashic-extension/akashic-box2d", "version": "~3.1" }
   ]
 }
