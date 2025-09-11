@@ -1,4 +1,8 @@
 {
   "formatVersion": "0",
-  "exclude": ["package-lock.json"]
+  "exclude": ["package-lock.json"],
+  "extensions": [
+    { "module": "@akashic-extension/akashic-timeline", "version": "^3" },
+    { "module": "@akashic-extension/akashic-label", "version": "^3" }
+  ]
 }
